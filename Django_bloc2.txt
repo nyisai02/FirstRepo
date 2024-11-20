@@ -1,0 +1,1 @@
+This is a simple code of Django that I have learn
